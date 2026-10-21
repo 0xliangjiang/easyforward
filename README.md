@@ -1,4 +1,4 @@
-# ChannelFlow — Token Tools
+# EasyForward — Token Tools
 
 > Language: [English](README.md) · [中文](README.zh-CN.md)
 
@@ -17,17 +17,17 @@ authorization token. Nothing leaves your device.
 
 ## Install (developer mode)
 
-1. `git clone https://github.com/0xliangjiang/channelflow-tools.git`
+1. `git clone https://github.com/0xliangjiang/easyforward.git`
 2. Open `chrome://extensions` → enable **Developer mode**
 3. Click **Load unpacked** → select the cloned folder (this one, the directory containing `manifest.json`)
-4. Pin **ChannelFlow** from the toolbar puzzle menu, then log in to discord.com
+4. Pin **EasyForward** from the toolbar puzzle menu, then log in to discord.com
 
 > Edge / Brave: same steps at `edge://extensions` / `brave://extensions`.
 
 ## Usage
 
 1. Open https://discord.com and log in
-2. Click the ChannelFlow toolbar icon
+2. Click the EasyForward toolbar icon
 3. The status turns green (**Connected**) — click **Copy** to grab your token
 
 ## Repo layout

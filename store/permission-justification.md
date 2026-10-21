@@ -1,4 +1,4 @@
-# ChannelFlow — Token Tools · 权限说明（Permission Justification）
+# EasyForward — Token Tools · 权限说明（Permission Justification）
 
 > 用途：CWS 审核后台「Permissions justification」逐条填写。每个权限都服务于
 > 同一个单一用途：查看并复制用户自己的 Discord 授权令牌。

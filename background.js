@@ -1,4 +1,4 @@
-// ChannelFlow — Token Tools · background service worker
+// EasyForward — Token Tools · background service worker
 // ---------------------------------------------------------------------------
 // Purpose: passively observe Discord's own API traffic and keep the
 // Authorization header (the logged-in user's token) in local storage.

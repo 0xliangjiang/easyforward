@@ -1,4 +1,4 @@
-# ChannelFlow — Token Tools · Chrome Web Store 上架文案
+# EasyForward — Token Tools · Chrome Web Store 上架文案
 
 > 用途：CWS 开发者后台各字段的填写内容。逐项对齐「单一用途」政策。
 
@@ -8,7 +8,7 @@
 
 | 字段 | 内容 |
 |------|------|
-| 扩展名称 | ChannelFlow — Token Tools |
+| 扩展名称 | EasyForward — Token Tools |
 | 版本 | 1.0.0 |
 | 类别 | Developer Tools（开发者工具） |
 | 语言 | English（界面内置中/英双语切换） |
@@ -30,7 +30,7 @@ Local-only toolbox to view and copy your own Discord authorization token. Nothin
 ## 3. Detailed Description（详细描述）
 
 ```
-ChannelFlow — Token Tools is a local-only utility with a single purpose:
+EasyForward — Token Tools is a local-only utility with a single purpose:
 let you view and copy YOUR OWN Discord authorization token for self-service
 account management, right from a clean popup.
 
@@ -38,7 +38,7 @@ WHY IT EXISTS
 Discord's web app stores your login token in browser memory and sends it on
 every API request. If you need that token yourself — for API scripting,
 self-hosted bots, or troubleshooting your own account — there is no built-in
-way to see it. ChannelFlow surfaces it safely.
+way to see it. EasyForward surfaces it safely.
 
 HOW IT WORKS
 When you are logged into discord.com, the extension passively observes the
@@ -78,7 +78,7 @@ Works with Chrome, Edge, Brave and other Chromium browsers via
 
 ## 4. Single Purpose 陈述（审核口径）
 
-> ChannelFlow — Token Tools has one clearly-scoped purpose: to allow a user
+> EasyForward — Token Tools has one clearly-scoped purpose: to allow a user
 > to view and copy **their own** Discord authorization token for legitimate
 > self-service account management. Its description, features, and requested
 > permissions all serve that single purpose and nothing else.

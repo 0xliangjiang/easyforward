@@ -1,6 +1,6 @@
 {
   "manifest_version": 3,
-  "name": "ChannelFlow — Token Tools",
+  "name": "EasyForward — Token Tools",
   "version": "1.0.0",
   "description": "A local-only toolbox to view and copy your own Discord authorization token. Nothing leaves your device.",
   "permissions": [
@@ -16,7 +16,7 @@
   },
   "action": {
     "default_popup": "popup.html",
-    "default_title": "ChannelFlow — Token Tools",
+    "default_title": "EasyForward — Token Tools",
     "default_icon": {
       "16": "icons/icon16.png",
       "32": "icons/icon32.png",

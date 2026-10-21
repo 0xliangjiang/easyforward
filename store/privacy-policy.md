@@ -1,11 +1,11 @@
-# Privacy Policy — ChannelFlow — Token Tools
+# Privacy Policy — EasyForward — Token Tools
 
 **Last updated:** 2026-01-01
 **Effective:** immediately upon installation
 
 ## 1. Overview
 
-ChannelFlow — Token Tools ("the Extension") is a local-only utility that lets you
+EasyForward — Token Tools ("the Extension") is a local-only utility that lets you
 view and copy **your own** Discord authorization token. This policy explains what
 data the Extension handles and how.
 

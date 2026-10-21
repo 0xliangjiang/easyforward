@@ -1,4 +1,4 @@
-# ChannelFlow — Token Tools
+# EasyForward — Token Tools
 
 > 语言：[English](README.md) · [中文](README.zh-CN.md)
 
@@ -17,17 +17,17 @@
 
 ## 安装（开发者模式）
 
-1. `git clone https://github.com/0xliangjiang/channelflow-tools.git`
+1. `git clone https://github.com/0xliangjiang/easyforward.git`
 2. 打开 `chrome://extensions` → 开启「开发者模式」
 3. 点「加载已解压的扩展程序」→ 选中克隆下来的文件夹（含 `manifest.json` 的那一层）
-4. 从工具栏拼图菜单固定 ChannelFlow，然后登录 discord.com
+4. 从工具栏拼图菜单固定 EasyForward，然后登录 discord.com
 
 > Edge / Brave 同理：`edge://extensions` / `brave://extensions`
 
 ## 使用
 
 1. 打开 https://discord.com 并登录
-2. 点击工具栏的 ChannelFlow 图标
+2. 点击工具栏的 EasyForward 图标
 3. 状态变绿（Connected）后，点「Copy」复制你的令牌
 
 ## 仓库结构
@@ -46,7 +46,7 @@ store/                 Chrome Web Store 上架材料
 
 - 令牌仅存于 `chrome.storage.local`；点「Clear」或卸载即删除
 - 无 `fetch` / `XMLHttpRequest` / `WebSocket`——零出站网络代码
-- 完整政策见 `store/privacy-policy.md`，中文版见 https://0xliangjiang.github.io/channelflow-tools/index.zh-CN.html
+- 完整政策见 `store/privacy-policy.md`，中文版见 https://0xliangjiang.github.io/easyforward/index.zh-CN.html
 
 ## Chrome Web Store 上架
 

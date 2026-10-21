@@ -1,4 +1,4 @@
-// ChannelFlow — Token Tools · popup logic
+// EasyForward — Token Tools · popup logic
 // ---------------------------------------------------------------------------
 // Reads the token captured by background.js from local storage, renders it in
 // a masked view, and offers reveal / copy / refresh / clear. No network I/O.
